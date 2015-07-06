@@ -1,0 +1,16 @@
+#stain 1 parameters
+strain1_vmax: 0.0030
+strain1_km: 481.26
+strain1_yield: 0.396345
+strain1_starting: 0.14
+#strain 2 parameters
+strain2_vmax: 0.0024
+strain2_km: 751.19
+strain2_yield: 0.3963745
+strain2_starting: 0.001
+#starting chemostat conditions
+flow_rate: 0.00000347
+volume: 0.010
+endtime: 100000
+substr_media: 2200
+substr_init: 1100
